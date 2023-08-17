@@ -1,11 +1,10 @@
-### Hi there 👋
 
-<p align="center">
-    <a href="https://github.com/GrzegorzSzczepanek/">
-        <img src="https://github-readme-stats.vercel.app/api?username=GrzegorzSzczepanek&theme=blue-green" alt="Grzegorz" />
-    </a>
-</p>
+<!--
+<img src="https://myreadme.vercel.app/api/embed/GrzegorzSzczepanek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+-->
+
+<img src="https://myreadme.vercel.app/api/embed/GrzegorzSzczepanek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **GrzegorzSzczepanek/GrzegorzSzczepanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
