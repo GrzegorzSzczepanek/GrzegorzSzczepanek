@@ -1,13 +1,8 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrzegorzSzczepanek&show_icons=true&theme=radical)
+
 
 <!--
-<img src="https://myreadme.vercel.app/api/embed/GrzegorzSzczepanek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
--->
-
-<img src="https://myreadme.vercel.app/api/embed/GrzegorzSzczepanek?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<!--
-**GrzegorzSzczepanek/GrzegorzSzczepanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GrzegorzSzczepanek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
