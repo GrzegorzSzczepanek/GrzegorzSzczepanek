@@ -31,10 +31,7 @@ I’m a 20-year-old Linux enthusiast and Python developer who enjoys experimenti
 Besides my technical hobbies, I have a passion for literature, foreign languages (I speak English, Russian, and basic Japanese), and video games.
 <p align="center">
   <a href="https://github.com/GrzegorzSzczepanek/">
-    <img src="https://api.githubtrends.io/user/svg/GrzegorzSzczepanek/langs?time_range=one_year&theme=dark&loc_metric=changed&include_private=True">
-  </a>
-  <a href="https://github.com/GrzegorzSzczepanek/">
-    <img src="https://api.githubtrends.io/user/svg/GrzegorzSzczepanek/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+    <img src="https://api.githubtrends.io/user/svg/GrzegorzSzczepanek/langs?time_range=one_year&loc_metric=changed&theme=dark">
   </a>
 </p>
 
