@@ -1,21 +1,27 @@
-
-<h2 align=center>About me</h2>
-I’m a 20-year-old Linux enthusiast and Python developer who enjoys experimenting with other languages such as Rust, or Elixir. Currently, my main fields of interest are AI, cybersecurity (thanks to my good pal <a href="https://github.com/Ernest1338/">Ernest1338</a>), and cognitive sciences. I'm also a member of the Neuroinformatics academic circle called KN Neuron at my university, where we use acquired EEG data for Brain-Computer Interfaces.
-
-Besides my technical hobbies, I have a passion for literature, foreign languages (I speak English, Russian, and basic Japanese), and video games.
+<h1 align="center">Hi there, I'm Grzesiek
+  <imgsrc="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+</h1>
+<h2 align="center">🚀 About Me 🚀</h2>
+<ul>
+  <li>🔭 <b>I’m currently student of:</b> Wrocław University of Science and Technology</li>
+  <li>🌱 <b>I’m currently learning:</b> Artificial Intelligence and software development</li>
+  <li>🧠 <b>I'm currenly working on:</b> Motor Imagery Classification that will be used for Brain-Computer Interface project with KN Neuron</li>
+  <li>🌐 <b>I speak in: </b> Polish🇵🇱, English🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Russian🇷🇺</li>
+</ul>
+</br>
+<h3 align=center> My stats: </h3>
 <p align="center">
   <a href="https://github.com/GrzegorzSzczepanek/">
     <img src="https://api.githubtrends.io/user/svg/GrzegorzSzczepanek/langs?time_range=one_year&loc_metric=changed&theme=dark">
   </a>
 </p>
 
-<h2 align=center>My Skills</h2>
+<h2 align=center>What I use:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,linux,pytorch,sklearn,rust,git" /></br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,svelte" />
+  <img src="https://skillicons.dev/icons?i=py,linux,pytorch,sklearn,rust,git,cpp,elixir" /></br>
+  <img src="https://skillicons.dev/icons?i=neovim,gitlab,github,vscode,bun,ubuntu" /></br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,svelte" /> </br>
 </p>
 
-<h2 align=center>What I Use</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,neovim,gitlab,github,vscode" />
+  
 </p>
