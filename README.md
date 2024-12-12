@@ -5,7 +5,7 @@
 <ul>
   <li>🔭 <b>I’m currently student of:</b> Wrocław University of Science and Technology</li>
   <li>🌱 <b>I’m currently learning:</b> Artificial Intelligence and software development</li>
-  <li>🧠 <b>I'm currenly working on:</b> Motor Imagery Classification and Lie Detector that will be used for EEG Brain-Computer Interface project with KN Neuron</li>
+  <li>🧠 <b>I'm currenly working on:</b> Neovim Plugin, Web App and Lie Detector that will be used for EEG Brain-Computer Interface project with KN Neuron</li>
   <li>🌐 <b>I speak in: </b> Polish🇵🇱, English🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Russian🇷🇺</li>
 </ul>
 </br>
