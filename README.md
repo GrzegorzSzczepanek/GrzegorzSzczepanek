@@ -18,9 +18,9 @@
 
 <h2 align=center>What I use:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,linux,pytorch,sklearn,lua,tailwind,cpp,react" /></br>
+  <img src="https://skillicons.dev/icons?i=py,linux,pytorch,sklearn,lua,tailwind,cpp,next" /></br>
   <img src="https://skillicons.dev/icons?i=neovim,gitlab,github,vscode,git,ubuntu" /></br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,svelte" /> </br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,svelte,docker" /> </br>
 </p>
 
   
